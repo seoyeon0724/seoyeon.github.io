@@ -3,7 +3,6 @@
 
 ## Project
 - [ HippoBooke](https://github.com/seoyeon0724) : 프로젝트에 대한 간략한 설명.
-- [프로젝트 이름](프로젝트 링크): 프로젝트에 대한 간략한 설명.
 
 ## SkillSet
 - **Back-end**: 
