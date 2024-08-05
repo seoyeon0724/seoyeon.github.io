@@ -2,7 +2,7 @@
 안녕하세요! 저는 신입 백엔드 개발자 박서연입니다.
 
 ## Project
-- [ HippoBooke](https://github.com/seoyeon0724/hippoBook) : 나만의 도서관
+- [ HippoBook](https://github.com/seoyeon0724/hippoBook) : 나만의 도서관
 
 ## SkillSet
 - **Back-end**: 
